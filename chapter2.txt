@@ -1,1 +1,1 @@
-this is the second chapter of the git commit learning program
+this is the second chapter of the git commit learning program(this is not pigin english by the way),
